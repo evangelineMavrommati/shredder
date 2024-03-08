@@ -3,7 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "bun run index.ts"
+    "start": "bun run index.ts",
+    "disc-start": "bun run disc-index.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -12,6 +13,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "blizzapi": "^2.6.2"
+    "blizzapi": "^2.6.2",
+    "discord.js": "^14.14.1"
   }
 }
