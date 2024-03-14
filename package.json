@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "blizzapi": "^2.6.2",
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "graphql": "^16.8.1"
   }
 }
